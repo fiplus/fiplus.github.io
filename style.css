@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+p {
+    color: black;
+    font-family: "times new roman";
+    text-align: center;
+}
+a {
+    color: black;
+    font-family: "Arial";
+    text-align: center;
+}
+ul {
+    color: black;
+    font-family: "times new roman";
+    line-height: 150%;
+    text-align: center;
+}
+h1 {
+    color: black;
+    font-family: "Arial";
+    text-align: center;
+}
+h4 {
+    color: black;
+    font-family: "Arial";
+    text-decoration: underline;
+    text-align: center;
+}
+h5 {
+    color: red;
+    font-style: italic;
+    font-family: "Arial";
+    text-align: center;
+}
